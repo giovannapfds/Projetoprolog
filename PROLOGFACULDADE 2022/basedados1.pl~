@@ -1,0 +1,114 @@
+% Base de Conhecimento em Rede de Computadores para Prolog.
+
+
+definid('o_que_é_uma_rede_de_computadores',
+	'é um conjunto de dois ou mais dispositivos eletrônicos de computação, ou módulos ou nós da rede, interligados por um sistema de comunicação digital,
+ou link de dados, guiados por um conjunto de regras (protocolo de rede),para compartilhar entre si informação, serviços e, recursos físicos e lógicos. ').
+
+definid('qual_a_classificação_de_redes',
+	'são classificados em três categorias, WAN( World Área NetWork), LAN (Local Área NetWork)
+e MAN (Rede Área Metropolitana).' ).
+
+definid('o_que_é_um_roteador',
+	'é um dispositivo de interconexão que encaminha pacotes entre redes processando as
+informações de roteamento, incluídas no pacote ou datagrama.' ).
+
+definid('o_que_é_placa_de_rede',
+	'é um elemento empregado como interface entre o computador e cabeamento de rede,
+conhecido também como adaptador.' ).
+
+definid('o_que_é_uma_modem',
+	'é um elemento utilizado para o sinal digital para que possa ser instalado.
+Ou seja, transforme os sinais elétricos digitais, que saia do computador,
+em um formato adequado ao meio de transmissão.' ).
+
+definid('Repetidor',
+	'é um elemento empregado para interligado. ' ).
+definid('switch',
+	'é um elemento utilizado para interligar computadores e redes a fim de concentração de
+cabeamento e permitir a conexão de redes de tipos diferentes.' ).
+
+definid('rede_LAN',
+	'são redes locais de empresas, escritórios, laboratórios de informática ou até domésticas.
+Em síntese, é restrita a uma pequena área.' ).
+
+definid('rede_MAN',
+	' são redes que têm alcance metropolitano. Ou seja, uma rede que interconecta recursos
+computacionais em uma área referente a uma metrópole. ' ).
+definid('rede_WAN ',
+	'são redes que interconectam recursos computacionais distantes geograficamente uns dos outros.
+Essas redes são redeses que interligam equipamentos.' ).
+
+definid('internet',
+	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de
+telefone, linhas privadas de comunicação, submarinos, canais de satélite e outros
+meios de telecomunicação.' ).
+
+definid('correio_eletrônico' ,
+	'é um dos primeiros serviços disponíveis para comunicação em rede. O correio eletrônico
+que usuários, enviem e recebam mensagens eletrônicas, usando um eletrônico
+como referência para a localização dos destinatários da mensagem.' ).
+
+definid('cabo_coaxial',
+	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
+não é mais empregado na implementação de problemas de redes, pois não é muito completo e muitos já
+foram detectados na utilização desse tipo de meio.' ).
+
+definid('cabo_de_par_trançado',
+	'é um cabo com pares de fios trançados e mais usado em redes. Além da flexibilidade,
+garante uma velocidade na troca de informações compatível com as interfaces de redes.
+cidade, é utilizada em redes locais.' ).
+
+definid('fibra ótica',
+	'são filamentos reforçados em materiais transparentes como fibras de vidro ou
+plástico e que são utilizados como meio de luz.' ).
+
+definid('radiofrequência',
+	'é um meio físico não utilizado para transmitir informações. A este tipo de meio
+convencionou-se chamar de wireless e as tecnologias mais conhecidas que se utilizam são o
+telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.' ).
+
+definid('topologias de redes',
+	'é uma forma como as interfaces são conectadas umas às outras. Essa função define o
+seu tipo, a eficiência da rede e sua velocidade.' ).
+
+definid('topologia de conexão',
+	' são computadores interligados de forma que, ou seja, não são todos os computadores
+que são interligados. ' ).
+
+definid('topologia em barramento',
+	'caracterizar por um meio de comunicação, ou seja, todos os computadores comuns são conectados a esse
+meio para estabelecer comunicação entre si. ' ).
+
+definid('topologia ponto a ponto',
+	'caracterizar por enviar os% Base de Conhecimento em Rede de Computadores para Prolog. ' ).
+
+definid('o_que_é_uma_rede_de_computadores',
+	'é um conjunto de dois ou mais dispositivos eletrônicos de computação, ou módulos
+ou nós da rede, interligados por um sistema de comunicação digital,
+ou link de dados, guiados por um conjunto de regras (protocolo de rede),
+para compartilhar entre si informação, serviços e, recursos físicos e lógicos. ' ).
+
+definid('qual_a_classificação_de_redes',
+	'são classificados em três categorias, WAN( World Área NetWork), LAN (Local Área NetWork)
+e MAN (Rede Área Metropolitana). ' ).
+
+definid('o_que_é_um_roteador',
+	'é um dispositivo de interconexão que encaminha pacotes entre redes processando as
+informações de roteamento, incluídas no pacote ou datagrama.' ).
+
+definid('o_que_é_placa_de_rede',
+	'é um elemento empregado como interface entre o computador e cabeamento de rede,
+conhecido também como adaptador.' ).
+
+definid('o_que_é_uma_modem',
+	'é um elemento utilizado para o sinal digital para que possa ser instalado.
+Ou seja, transforme os sinais elétricos digitais, que saia do computador,
+em um formato adequado ao meio de transmissão.' ).
+
+definid('Repetidor' ,
+	'é um elemento empregado para interligação de duas ou mais redes acionadas,
+transformando-as em uma única rede lógica. ' ).
+
+definid('fim', 'Até a próxima!').
+
